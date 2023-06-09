@@ -1,12 +1,15 @@
 #TextUtils
+
 TextUtils is a web application built with React.js that provides various text manipulation utilities. It offers a user-friendly interface for performing common text operations such as converting text case, removing extra spaces, and generating lorem ipsum text.
 
 #Features
+
 ##Text Case Conversion: Convert text to uppercase, lowercase, title case, sentence case, or alternating case.
 ##Remove Extra Spaces: Remove extra spaces from text and ensure consistent spacing.
 ##Lorem Ipsum Generator: Generate placeholder text in the form of Lorem Ipsum paragraphs or sentences.
 
 #Installation
+
 ##Clone the repository:
 git clone https://github.com/your-username/TextUtils.git
 
@@ -23,12 +26,14 @@ npm start
 http://localhost:3000
 
 #Usage
+
 1. Enter the text you want to manipulate in the input box.
 2. Choose the desired text operation from the sidebar options.
 3. View the updated text in the main area of the application.
 4. Experiment with different operations and enjoy!
 
 #Contributing
+
 Contributions are welcome! If you'd like to contribute to TextUtils, please follow these steps:
 
 1. Fork the repository.
