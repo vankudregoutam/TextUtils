@@ -1,62 +1,70 @@
-TextUtils
-TextUtils is a web application built with React.js that provides various text manipulation utilities. It offers a user-friendly interface for performing common text operations such as converting text case, removing extra spaces, and generating lorem ipsum text.
+# Getting Started with Create React App
 
-Features
-Text Case Conversion: Convert text to uppercase, lowercase, title case, sentence case, or alternating case.
-Remove Extra Spaces: Remove extra spaces from text and ensure consistent spacing.
-Lorem Ipsum Generator: Generate placeholder text in the form of Lorem Ipsum paragraphs or sentences.
-Installation
-Clone the repository:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-shell
-Copy code
-git clone https://github.com/your-username/TextUtils.git
-Navigate to the project directory:
+## Available Scripts
 
-shell
-Copy code
-cd TextUtils
-Install the dependencies:
+In the project directory, you can run:
 
-shell
-Copy code
-npm install
-Start the development server:
+### `npm start`
 
-shell
-Copy code
-npm start
-Open the application in your browser:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-arduino
-Copy code
-http://localhost:3000
-Usage
-Enter the text you want to manipulate in the input box.
-Choose the desired text operation from the sidebar options.
-View the updated text in the main area of the application.
-Experiment with different operations and enjoy!
-Contributing
-Contributions are welcome! If you'd like to contribute to TextUtils, please follow these steps:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Fork the repository.
-Create a new branch: git checkout -b my-new-branch.
-Make your changes and commit them: git commit -am 'Add some feature'.
-Push the branch to your forked repository: git push origin my-new-branch.
-Submit a pull request.
-License
-TextUtils is open-source software released under the MIT License.
+### `npm test`
 
-Acknowledgements
-TextUtils was developed using the following technologies and libraries:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-React.js
-React Router
-Lorem Ipsum API
-Bootstrap
-Contact
-If you have any questions, suggestions, or issues, please feel free to contact the project maintainer:
+### `npm run build`
 
-Your Name
-Email: yourname@example.com
-GitHub: your-username
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
